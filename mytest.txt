@@ -1,3 +1,4 @@
 Hello Christian
 This is the second line of  mytest.txt
 This is an addendum line after initial draft --cg
+Richard is the best master teacher
